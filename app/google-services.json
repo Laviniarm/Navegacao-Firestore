@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65314003650",
+    "project_id": "firestore-atividade",
+    "storage_bucket": "firestore-atividade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65314003650:android:8b5a8f34e5ca7263cc395b",
+        "android_client_info": {
+          "package_name": "com.example.navegacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCWapesKNBZP-2S15f8dV_sIzrfp8xO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
